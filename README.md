@@ -1,2 +1,2 @@
 # Hugs-Donald
-for studying
+for studying only
